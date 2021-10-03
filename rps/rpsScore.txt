@@ -1,0 +1,4 @@
+score: 0
+score: 3
+ your score: 4 comp score: 10
+your score: 2 comp score: 0
